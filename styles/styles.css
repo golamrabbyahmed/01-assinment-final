@@ -72,7 +72,7 @@ span {
   margin-right: 10%;
 }
 .my-plans h1 {
-  font-weight: 700;
+  font-weight: 702;
   color: black;
   font-size: 40px;
   text-align: center;
@@ -83,7 +83,7 @@ span {
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 19px;
 }
 .singlePlan {
   display: flex;
@@ -92,10 +92,10 @@ span {
   justify-content: center;
 }
 .singlePlan p {
-  font-weight: 700;
+  font-weight: 702;
   color: black;
-  font-size: 30px;
-  margin-bottom: 10px;
+  font-size: 31px;
+  margin-bottom: 11px;
 }
 .singlePlan small {
   color: #737272;
@@ -104,7 +104,7 @@ span {
 .image-gradient{
   margin-top: 50px;
   margin-bottom: 50px;
-  background-image:linear-gradient(to left, rgba(245, 246, 252, 0.52), rgba(117, 19, 93, 0.73)), url("../images/watch.png");
+  background-image:linear-gradient(to left, rgba(244, 247, 252, 0.51), rgba(118, 21, 92, 0.73)), url("../images/watch.png");
   height: 350px;
   width:80%;
   margin-left: 10%;
@@ -127,7 +127,7 @@ span {
   border-radius: 10px;
   color: #F15B22;
   border: 1px solid #F15B22;
-  font-size: 20px;
+  font-size: 22px;
 }
 /* Footer */
 
@@ -135,21 +135,21 @@ span {
   background-color:black;
   color: white;
   height: 500px;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 11%;
+  padding-right: 11%;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
 }
 .left-footer h1{
-  font-size: 45px;
-  font-weight: 700;
+  font-size: 46px;
+  font-weight: 701;
 }
 .left-footer p{
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 399;
-  margin-bottom: 20px;
+  margin-bottom: 21px;
 }
 .logo{
   display: flex;
@@ -157,26 +157,26 @@ span {
   gap: 20px;
 }
 .right-footer h1{
-  font-size: 44px;
-  font-weight: 700;
+  font-size: 45px;
+  font-weight: 702;
 }
 .right-footer button{
-  height: 60px;
-  width: 160px;
+  height: 62px;
+  width: 159px;
   background-color: white;
   border: none;
-  border-radius: 9px;
+  border-radius: 8px;
   color: #F15B22;
   border: 2px solid #f05316;
-  font-size: 22px;
+  font-size: 21px;
 }
 .right-footer input{
-  height: 50px;
+  height: 52px;
   width: 301px;
   border: none;
-  border-radius: 10px;
-  padding-left: 10px;
-  margin-bottom: 20px;
+  border-radius: 11px;
+  padding-left: 11px;
+  margin-bottom: 18px;
   background-color: black;
   border: 1px solid white;
 }

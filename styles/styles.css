@@ -1,0 +1,67 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+.header {
+  background-image: url(../images/banner/banner1.png);
+  background-size: cover;
+  height: 800px;
+  padding: 0.1px;
+}
+.header-content {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10%;
+  align-items: flex-end;
+}
+.header-content h1 {
+  font-size: 65px;
+  font-weight: 700;
+  color: black;
+  margin-bottom: 10px;
+  text-align: end;
+  margin-top: 200px;
+}
+.header-content p {
+  text-align: right;
+  font-size: 16px;
+  font-weight: 400;
+  color: black;
+  margin-bottom: 20px;
+}
+.header-btn {
+  background: #f15b22;
+  border-radius: 5px;
+  border: 0;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: right;
+  color: #ffffff;
+  padding: 20px 25px;
+}
+
+/* person part */
+span {
+  width: 24px;
+  height: 24px;
+  color: green;
+}
+.person{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 132px;
+}
+.person-content h2{
+font-weight: 700;
+font-size: 40px;
+color: #151414;
+}
+.person-description{
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+color: #444343;
+}

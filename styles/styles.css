@@ -147,8 +147,8 @@ span {
   font-weight: 700;
 }
 .left-footer p{
-  font-size: 16px;
-  font-weight: 400;
+  font-size: 17px;
+  font-weight: 399;
   margin-bottom: 20px;
 }
 .logo{
@@ -157,12 +157,22 @@ span {
   gap: 20px;
 }
 .right-footer h1{
-  font-size: 45px;
+  font-size: 44px;
   font-weight: 700;
+}
+.right-footer button{
+  height: 60px;
+  width: 160px;
+  background-color: white;
+  border: none;
+  border-radius: 9px;
+  color: #F15B22;
+  border: 2px solid #f05316;
+  font-size: 22px;
 }
 .right-footer input{
   height: 50px;
-  width: 300px;
+  width: 301px;
   border: none;
   border-radius: 10px;
   padding-left: 10px;
@@ -170,13 +180,4 @@ span {
   background-color: black;
   border: 1px solid white;
 }
-.right-footer button{
-  height: 60px;
-  width: 160px;
-  background-color: white;
-  border: none;
-  border-radius: 10px;
-  color: #F15B22;
-  border: 1px solid #F15B22;
-  font-size: 20px;
-}
+
